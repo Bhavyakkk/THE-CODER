@@ -6,19 +6,24 @@ public:
 
         
         while (ro >= 0 && co >= 0) {
-            if (board[ro--][co--] == 'Q') return false;
+            if (board[ro][co] == 'Q') return false;
+            ro--;
+            co--;
         }
 
         
         ro = row; co = col;
         while (ro < n && co >= 0) {
-            if (board[ro++][co--] == 'Q') return false;
-        }
+            if (board[ro][co] == 'Q') return false;
+            ro++;
+            co--;
+    }
 
         
         ro = row; co = col;
         while (co >= 0) {
-            if (board[ro][co--] == 'Q') return false;
+            if (board[ro][co] == 'Q') return false;
+            co--;
         }
 
         return true;
@@ -37,7 +42,7 @@ public:
                 solve(col + 1, ans, board, n);
                 board[row][col] = '.';  
             }
-        }
+     }
     }
 
     vector<vector<string>> solveNQueens(int n) {
@@ -45,5 +50,5 @@ public:
         vector<string> board(n, string(n, '.')); 
         solve(0, ans, board, n);
         return ans;
-    }
+}
 };
