@@ -7,8 +7,13 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0001-two-sum/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0001-two-sum/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
