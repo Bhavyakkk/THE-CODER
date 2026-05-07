@@ -19,6 +19,7 @@ I like to code
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Bhavyakkk/THE-CODER/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -28,4 +29,8 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Bhavyakkk/THE-CODER/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
