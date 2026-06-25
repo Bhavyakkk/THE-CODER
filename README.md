@@ -8,6 +8,7 @@ I like to code
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0001-two-sum/) | Easy |
 | [0075-sort-colors](https://github.com/Bhavyakkk/THE-CODER/tree/main/0075-sort-colors/) | Medium |
+| [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Bhavyakkk/THE-CODER/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/1929-concatenation-of-array/) | Easy |
@@ -58,5 +59,10 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Bhavyakkk/THE-CODER/tree/main/0075-sort-colors/) | Medium |
+| [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Bhavyakkk/THE-CODER/tree/main/0905-sort-array-by-parity/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
