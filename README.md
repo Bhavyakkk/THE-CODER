@@ -8,6 +8,7 @@ I like to code
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Bhavyakkk/THE-CODER/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -71,4 +72,9 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
