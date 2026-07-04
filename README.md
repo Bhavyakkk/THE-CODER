@@ -85,6 +85,7 @@ I like to code
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Bhavyakkk/THE-CODER/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
