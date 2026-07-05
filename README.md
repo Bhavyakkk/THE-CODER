@@ -13,6 +13,7 @@ I like to code
 | [0056-merge-intervals](https://github.com/Bhavyakkk/THE-CODER/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Bhavyakkk/THE-CODER/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyakkk/THE-CODER/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -25,6 +26,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Simulation
@@ -106,4 +108,8 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
