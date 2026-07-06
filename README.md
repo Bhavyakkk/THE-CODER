@@ -13,6 +13,7 @@ I like to code
 | [0056-merge-intervals](https://github.com/Bhavyakkk/THE-CODER/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Bhavyakkk/THE-CODER/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyakkk/THE-CODER/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -98,6 +99,7 @@ I like to code
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyakkk/THE-CODER/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
