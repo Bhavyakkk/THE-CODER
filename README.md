@@ -19,6 +19,7 @@ I like to code
 | [0128-longest-consecutive-sequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -120,6 +121,7 @@ I like to code
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -150,5 +152,10 @@ I like to code
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0410-split-array-largest-sum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
