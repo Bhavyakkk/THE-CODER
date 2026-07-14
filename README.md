@@ -28,6 +28,7 @@ I like to code
 | [0905-sort-array-by-parity](https://github.com/Bhavyakkk/THE-CODER/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -118,6 +119,7 @@ I like to code
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
