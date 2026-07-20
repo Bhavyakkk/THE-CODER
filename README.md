@@ -15,6 +15,7 @@ I like to code
 | [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Bhavyakkk/THE-CODER/tree/main/0056-merge-intervals/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Bhavyakkk/THE-CODER/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyakkk/THE-CODER/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -128,6 +129,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavyakkk/THE-CODER/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -169,4 +171,5 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
