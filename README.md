@@ -12,6 +12,7 @@ I like to code
 | [0031-next-permutation](https://github.com/Bhavyakkk/THE-CODER/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Bhavyakkk/THE-CODER/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Bhavyakkk/THE-CODER/tree/main/0075-sort-colors/) | Medium |
@@ -44,6 +45,7 @@ I like to code
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/1929-concatenation-of-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -163,4 +165,8 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
