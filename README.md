@@ -25,6 +25,7 @@ I like to code
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0229-majority-element-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -71,6 +72,7 @@ I like to code
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavyakkk/THE-CODER/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +133,7 @@ I like to code
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavyakkk/THE-CODER/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -172,4 +175,5 @@ I like to code
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
