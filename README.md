@@ -11,6 +11,7 @@ I like to code
 | [0015-3sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Bhavyakkk/THE-CODER/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/Bhavyakkk/THE-CODER/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
@@ -109,6 +110,7 @@ I like to code
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Bhavyakkk/THE-CODER/tree/main/0048-rotate-image/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhavyakkk/THE-CODER/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
 ## Dynamic Programming
@@ -173,6 +175,7 @@ I like to code
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Bhavyakkk/THE-CODER/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
