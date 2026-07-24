@@ -33,6 +33,7 @@ I like to code
 | [0905-sort-array-by-parity](https://github.com/Bhavyakkk/THE-CODER/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/1929-concatenation-of-array/) | Easy |
@@ -44,6 +45,7 @@ I like to code
 | [0229-majority-element-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0229-majority-element-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
+| [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
+| [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
