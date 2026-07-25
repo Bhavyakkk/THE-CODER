@@ -35,6 +35,7 @@ I like to code
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1329-sort-the-matrix-diagonally](https://github.com/Bhavyakkk/THE-CODER/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -87,6 +88,7 @@ I like to code
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Bhavyakkk/THE-CODER/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1329-sort-the-matrix-diagonally](https://github.com/Bhavyakkk/THE-CODER/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -182,4 +184,5 @@ I like to code
 | [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1329-sort-the-matrix-diagonally](https://github.com/Bhavyakkk/THE-CODER/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 <!---LeetCode Topics End-->
