@@ -104,6 +104,7 @@ I like to code
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhavyakkk/THE-CODER/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Bhavyakkk/THE-CODER/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
@@ -123,6 +124,7 @@ I like to code
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhavyakkk/THE-CODER/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
@@ -161,6 +163,7 @@ I like to code
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhavyakkk/THE-CODER/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0038-count-and-say](https://github.com/Bhavyakkk/THE-CODER/tree/main/0038-count-and-say/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
