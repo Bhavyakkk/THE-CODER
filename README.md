@@ -10,6 +10,7 @@ I like to code
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavyakkk/THE-CODER/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Bhavyakkk/THE-CODER/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Bhavyakkk/THE-CODER/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
@@ -145,6 +146,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavyakkk/THE-CODER/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
