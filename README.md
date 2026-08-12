@@ -132,6 +132,7 @@ I like to code
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
+| [0072-edit-distance](https://github.com/Bhavyakkk/THE-CODER/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyakkk/THE-CODER/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -170,6 +171,7 @@ I like to code
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhavyakkk/THE-CODER/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0038-count-and-say](https://github.com/Bhavyakkk/THE-CODER/tree/main/0038-count-and-say/) | Medium |
+| [0072-edit-distance](https://github.com/Bhavyakkk/THE-CODER/tree/main/0072-edit-distance/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 ## Stack
