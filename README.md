@@ -200,4 +200,8 @@ I like to code
 | [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Bhavyakkk/THE-CODER/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
