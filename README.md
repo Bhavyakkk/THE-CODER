@@ -170,6 +170,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhavyakkk/THE-CODER/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/Bhavyakkk/THE-CODER/tree/main/0038-count-and-say/) | Medium |
 | [0072-edit-distance](https://github.com/Bhavyakkk/THE-CODER/tree/main/0072-edit-distance/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
@@ -177,6 +178,7 @@ I like to code
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -204,4 +206,8 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
