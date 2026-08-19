@@ -122,6 +122,7 @@ I like to code
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Bhavyakkk/THE-CODER/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Bhavyakkk/THE-CODER/tree/main/0048-rotate-image/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhavyakkk/THE-CODER/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
