@@ -182,6 +182,7 @@ I like to code
 | [0139-word-break](https://github.com/Bhavyakkk/THE-CODER/tree/main/0139-word-break/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/Bhavyakkk/THE-CODER/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,14 +222,17 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/Bhavyakkk/THE-CODER/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/Bhavyakkk/THE-CODER/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/Bhavyakkk/THE-CODER/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,4 +249,12 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Bhavyakkk/THE-CODER/tree/main/0139-word-break/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/Bhavyakkk/THE-CODER/tree/main/1392-longest-happy-prefix/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/Bhavyakkk/THE-CODER/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
