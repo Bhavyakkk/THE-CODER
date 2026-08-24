@@ -182,12 +182,14 @@ I like to code
 | [0139-word-break](https://github.com/Bhavyakkk/THE-CODER/tree/main/0139-word-break/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Bhavyakkk/THE-CODER/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
