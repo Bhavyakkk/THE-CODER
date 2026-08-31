@@ -119,6 +119,7 @@ I like to code
 | [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0647-palindromic-substrings](https://github.com/Bhavyakkk/THE-CODER/tree/main/0647-palindromic-substrings/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Bhavyakkk/THE-CODER/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -143,6 +144,7 @@ I like to code
 | [0139-word-break](https://github.com/Bhavyakkk/THE-CODER/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0647-palindromic-substrings](https://github.com/Bhavyakkk/THE-CODER/tree/main/0647-palindromic-substrings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +184,7 @@ I like to code
 | [0038-count-and-say](https://github.com/Bhavyakkk/THE-CODER/tree/main/0038-count-and-say/) | Medium |
 | [0072-edit-distance](https://github.com/Bhavyakkk/THE-CODER/tree/main/0072-edit-distance/) | Medium |
 | [0139-word-break](https://github.com/Bhavyakkk/THE-CODER/tree/main/0139-word-break/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Bhavyakkk/THE-CODER/tree/main/0647-palindromic-substrings/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
