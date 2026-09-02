@@ -19,6 +19,7 @@ I like to code
 | [0056-merge-intervals](https://github.com/Bhavyakkk/THE-CODER/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Bhavyakkk/THE-CODER/tree/main/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/Bhavyakkk/THE-CODER/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavyakkk/THE-CODER/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -69,6 +70,7 @@ I like to code
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Bhavyakkk/THE-CODER/tree/main/0079-word-search/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ I like to code
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Bhavyakkk/THE-CODER/tree/main/0038-count-and-say/) | Medium |
 | [0072-edit-distance](https://github.com/Bhavyakkk/THE-CODER/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/Bhavyakkk/THE-CODER/tree/main/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/Bhavyakkk/THE-CODER/tree/main/0139-word-break/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Bhavyakkk/THE-CODER/tree/main/0647-palindromic-substrings/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
@@ -215,6 +218,7 @@ I like to code
 | [0048-rotate-image](https://github.com/Bhavyakkk/THE-CODER/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Bhavyakkk/THE-CODER/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Bhavyakkk/THE-CODER/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 ## Pigeonhole Principle
@@ -268,4 +272,5 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0079-word-search](https://github.com/Bhavyakkk/THE-CODER/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
