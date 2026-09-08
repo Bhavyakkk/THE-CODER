@@ -153,6 +153,7 @@ I like to code
 | [0152-maximum-product-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Bhavyakkk/THE-CODER/tree/main/0647-palindromic-substrings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +200,7 @@ I like to code
 | [0692-top-k-frequent-words](https://github.com/Bhavyakkk/THE-CODER/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Bhavyakkk/THE-CODER/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Stack
@@ -287,4 +289,8 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Bhavyakkk/THE-CODER/tree/main/0692-top-k-frequent-words/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
