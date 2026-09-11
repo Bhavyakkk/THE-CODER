@@ -57,6 +57,7 @@ I like to code
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Bhavyakkk/THE-CODER/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0767-reorganize-string/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -101,6 +102,7 @@ I like to code
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Bhavyakkk/THE-CODER/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0767-reorganize-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Bhavyakkk/THE-CODER/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/Bhavyakkk/THE-CODER/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -110,6 +112,7 @@ I like to code
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Bhavyakkk/THE-CODER/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0767-reorganize-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +162,7 @@ I like to code
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0767-reorganize-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0767-reorganize-string/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -184,6 +188,7 @@ I like to code
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0229-majority-element-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Bhavyakkk/THE-CODER/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +203,7 @@ I like to code
 | [0139-word-break](https://github.com/Bhavyakkk/THE-CODER/tree/main/0139-word-break/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Bhavyakkk/THE-CODER/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Bhavyakkk/THE-CODER/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0767-reorganize-string/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/1143-longest-common-subsequence/) | Medium |
