@@ -157,6 +157,7 @@ I like to code
 | [0410-split-array-largest-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Bhavyakkk/THE-CODER/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhavyakkk/THE-CODER/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ I like to code
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhavyakkk/THE-CODER/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Bhavyakkk/THE-CODER/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
