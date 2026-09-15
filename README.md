@@ -207,6 +207,7 @@ I like to code
 | [0767-reorganize-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0767-reorganize-string/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhavyakkk/THE-CODER/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -216,6 +217,7 @@ I like to code
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
