@@ -13,6 +13,7 @@ I like to code
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Bhavyakkk/THE-CODER/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Bhavyakkk/THE-CODER/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Bhavyakkk/THE-CODER/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
@@ -50,6 +51,7 @@ I like to code
 | [0001-two-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Bhavyakkk/THE-CODER/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/Bhavyakkk/THE-CODER/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Bhavyakkk/THE-CODER/tree/main/0139-word-break/) | Medium |
 | [0229-majority-element-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0229-majority-element-ii/) | Medium |
@@ -95,6 +97,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Bhavyakkk/THE-CODER/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Bhavyakkk/THE-CODER/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Bhavyakkk/THE-CODER/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -199,6 +202,7 @@ I like to code
 | [0020-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Bhavyakkk/THE-CODER/tree/main/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/Bhavyakkk/THE-CODER/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Bhavyakkk/THE-CODER/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/Bhavyakkk/THE-CODER/tree/main/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/Bhavyakkk/THE-CODER/tree/main/0139-word-break/) | Medium |
