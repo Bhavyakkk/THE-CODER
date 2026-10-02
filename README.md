@@ -160,6 +160,7 @@ I like to code
 | [0152-maximum-product-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Bhavyakkk/THE-CODER/tree/main/0647-palindromic-substrings/) | Medium |
+| [0926-flip-string-to-monotone-increasing](https://github.com/Bhavyakkk/THE-CODER/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhavyakkk/THE-CODER/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Greedy
@@ -212,6 +213,7 @@ I like to code
 | [0692-top-k-frequent-words](https://github.com/Bhavyakkk/THE-CODER/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0767-reorganize-string/) | Medium |
 | [0916-word-subsets](https://github.com/Bhavyakkk/THE-CODER/tree/main/0916-word-subsets/) | Medium |
+| [0926-flip-string-to-monotone-increasing](https://github.com/Bhavyakkk/THE-CODER/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Bhavyakkk/THE-CODER/tree/main/1143-longest-common-subsequence/) | Medium |
