@@ -74,6 +74,7 @@ I like to code
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhavyakkk/THE-CODER/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0206-reverse-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Depth-First Search
