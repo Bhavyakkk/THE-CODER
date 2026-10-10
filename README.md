@@ -73,6 +73,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhavyakkk/THE-CODER/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0206-reverse-linked-list/) | Easy |
@@ -133,6 +134,7 @@ I like to code
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Bhavyakkk/THE-CODER/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Bhavyakkk/THE-CODER/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0287-find-the-duplicate-number/) | Medium |
