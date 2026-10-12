@@ -10,37 +10,37 @@
  */
 class Solution {
 public:
+    ListNode* findnthnode(ListNode* temp, int k){
+       int count=1;
+
+       while(temp != NULL){
+        if(count==k) return temp;
+
+        temp=temp->next;
+        count++;
+       }
+       return temp;
+    }
     ListNode* rotateRight(ListNode* head, int k) {
-        if (head == NULL || head->next == NULL || k == 0) {
+        if(head==NULL || k==0){
             return head;
         }
 
-         ListNode* tail = head;
-        int len = 1;
+        ListNode* tail=head;
+        int len=1;
 
-        while (tail->next != NULL) {
-            tail = tail->next;
-            len++;
+        while(tail->next != NULL){
+           tail=tail->next;
+           len++;
         }
+        if(k%len==0) return head;
+        k=k%len; 
+        
+        tail->next=head;
+        ListNode* newlastNode= findnthnode(head,len-k);
+        head=newlastNode->next;
+        newlastNode->next=NULL;
 
-        k = k % len;
-
-        if (k == 0) {
-            return head;
-        }
-
-        tail->next = head;
-
-        int steps = len - k;
-        ListNode* curr = head;
-
-        for (int i = 1; i < steps; i++) {
-            curr = curr->next;
-        }
-
-        ListNode* newHead = curr->next;
-        curr->next = NULL;
-
-        return newHead;
+        return head;
     }
 };
