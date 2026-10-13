@@ -72,6 +72,7 @@ I like to code
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Bhavyakkk/THE-CODER/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhavyakkk/THE-CODER/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -90,6 +91,7 @@ I like to code
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Bhavyakkk/THE-CODER/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhavyakkk/THE-CODER/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer
@@ -146,6 +148,7 @@ I like to code
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Bhavyakkk/THE-CODER/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Bhavyakkk/THE-CODER/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Bhavyakkk/THE-CODER/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Bhavyakkk/THE-CODER/tree/main/0048-rotate-image/) | Medium |
