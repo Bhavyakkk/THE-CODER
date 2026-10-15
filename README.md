@@ -49,6 +49,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Bhavyakkk/THE-CODER/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Bhavyakkk/THE-CODER/tree/main/0049-group-anagrams/) | Medium |
@@ -207,6 +208,7 @@ I like to code
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Bhavyakkk/THE-CODER/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Bhavyakkk/THE-CODER/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -249,6 +251,7 @@ I like to code
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Bhavyakkk/THE-CODER/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Matrix
