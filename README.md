@@ -75,6 +75,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Bhavyakkk/THE-CODER/tree/main/0002-add-two-numbers/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/Bhavyakkk/THE-CODER/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhavyakkk/THE-CODER/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -103,6 +104,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavyakkk/THE-CODER/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/Bhavyakkk/THE-CODER/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -128,6 +130,7 @@ I like to code
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhavyakkk/THE-CODER/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Bhavyakkk/THE-CODER/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0767-reorganize-string/) | Medium |
@@ -337,5 +340,10 @@ I like to code
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhavyakkk/THE-CODER/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0148-sort-list/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhavyakkk/THE-CODER/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
