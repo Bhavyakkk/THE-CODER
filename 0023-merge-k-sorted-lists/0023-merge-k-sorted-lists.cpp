@@ -8,8 +8,6 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
-
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
@@ -17,27 +15,27 @@ public:
             return nullptr;
         }
 
-        return mergeKListsHelper(lists, 0, lists.size() - 1);
+        return binarymerge(lists, 0, lists.size() - 1);
     }
 
-    ListNode* mergeKListsHelper(vector<ListNode*>& lists, int start, int end) {
+    ListNode* binarymerge(vector<ListNode*>& lists, int start, int end) {
         if (start == end) {
             return lists[start];
         }
 
         if (start + 1 == end) {
-            return merge2Lists(lists[start], lists[end]);
+            return merge2ll(lists[start], lists[end]);
         }
 
         int mid = start + (end - start) / 2;
 
-        ListNode* left = mergeKListsHelper(lists, start, mid);
-        ListNode* right = mergeKListsHelper(lists, mid + 1, end);
+        ListNode* left = binarymerge(lists, start, mid);
+        ListNode* right = binarymerge(lists, mid + 1, end);
 
-        return merge2Lists(left, right);
+        return merge2ll(left, right);
     }
 
-    ListNode* merge2Lists(ListNode* l1, ListNode* l2) {
+    ListNode* merge2ll(ListNode* l1, ListNode* l2) {
         ListNode dummy(0);
         ListNode* curr = &dummy;
 
