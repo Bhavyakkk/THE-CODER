@@ -84,6 +84,7 @@ I like to code
 | [0092-reverse-linked-list-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhavyakkk/THE-CODER/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Bhavyakkk/THE-CODER/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0206-reverse-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -102,6 +103,7 @@ I like to code
 | [0002-add-two-numbers](https://github.com/Bhavyakkk/THE-CODER/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhavyakkk/THE-CODER/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0203-remove-linked-list-elements](https://github.com/Bhavyakkk/THE-CODER/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
