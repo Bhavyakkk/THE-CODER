@@ -88,6 +88,7 @@ I like to code
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhavyakkk/THE-CODER/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Bhavyakkk/THE-CODER/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Depth-First Search
