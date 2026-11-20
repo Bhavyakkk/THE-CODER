@@ -91,6 +91,7 @@ I like to code
 | [0237-delete-node-in-a-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ I like to code
 | [0905-sort-array-by-parity](https://github.com/Bhavyakkk/THE-CODER/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
