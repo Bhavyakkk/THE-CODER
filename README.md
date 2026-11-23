@@ -42,6 +42,7 @@ I like to code
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1002-find-common-characters](https://github.com/Bhavyakkk/THE-CODER/tree/main/1002-find-common-characters/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bhavyakkk/THE-CODER/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Bhavyakkk/THE-CODER/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhavyakkk/THE-CODER/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Bhavyakkk/THE-CODER/tree/main/1929-concatenation-of-array/) | Easy |
@@ -93,6 +94,7 @@ I like to code
 | [0328-odd-even-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -265,12 +267,14 @@ I like to code
 | [0020-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/Bhavyakkk/THE-CODER/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bhavyakkk/THE-CODER/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
