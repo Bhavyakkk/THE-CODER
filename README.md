@@ -190,6 +190,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhavyakkk/THE-CODER/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bhavyakkk/THE-CODER/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Bhavyakkk/THE-CODER/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Bhavyakkk/THE-CODER/tree/main/0055-jump-game/) | Medium |
@@ -243,6 +244,7 @@ I like to code
 | [0013-roman-to-integer](https://github.com/Bhavyakkk/THE-CODER/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhavyakkk/THE-CODER/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Bhavyakkk/THE-CODER/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Bhavyakkk/THE-CODER/tree/main/0049-group-anagrams/) | Medium |
@@ -304,6 +306,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0022-generate-parentheses/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +351,7 @@ I like to code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavyakkk/THE-CODER/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Bhavyakkk/THE-CODER/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/Bhavyakkk/THE-CODER/tree/main/0079-word-search/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
